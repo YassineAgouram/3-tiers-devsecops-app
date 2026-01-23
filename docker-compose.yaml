@@ -20,7 +20,7 @@ services:
     environment:
       DB_HOST: mysql
       DB_USER: root
-      DB_PASSWORD: Aditya
+      DB_PASSWORD: admin
       DB_NAME: crud_app
       JWT_SECRET: devsecopsSecretKey
       RESET_ADMIN_PASS: 'true'
